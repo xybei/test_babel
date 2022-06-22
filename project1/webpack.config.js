@@ -1,3 +1,5 @@
+const path = require('path');
+
 module.exports = {
     devtool: 'source-map',
     entry: './src/lib1.js',
