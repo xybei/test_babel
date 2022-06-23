@@ -1,4 +1,4 @@
-import { Util } from '../../sharedlib';
+import { Util } from 'sharedlib';
 
 class Lib1 {
     constructor() {
